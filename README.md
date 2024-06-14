@@ -1,16 +1,18 @@
-## Hi there 👋
+## Olá! Seja bem-vindo(a) no meu perfil 💫
 
-<!--
-**eTatah/eTatah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- Me chamo Talita dos Santos;
+- tenho 16 anos;
+- atualemente estou no 2° ano do Ensino Médio;
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desenvolvo o uma linguagem no JavaScript
+- Estou cursando Alura
+- Aprendo rápido as coisas 
+
+## Você entrar em contato comigo 📨
+
+- Email: dossantostalita2911@gamil.com
+- Intagram: @sntts_tali
+
+- ![](https://media1.tenor.com/m/ulQhUH0ncoMAAAAC/thumbs-up-wink.gif)
